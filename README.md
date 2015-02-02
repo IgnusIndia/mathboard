@@ -2,8 +2,8 @@
 
 # Todo
 
- - Add LaTeX editor
- - ranking system,  may be :D
+ - Add admin LaTeX editor
+ - ranking system,  meh :D
  - Add auth system
 
 License
