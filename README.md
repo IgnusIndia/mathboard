@@ -2,9 +2,9 @@
 
 # Todo
 
- - Add admin LaTeX editor
+ - Add admin LaTeX editor [Mathajax] ?
  - ranking system,  meh :D
- - Add auth system
+ - <s>Add auth system </s>
 
 License
 ----
