@@ -6,7 +6,8 @@
  - ranking system,  meh :D
  - <s>Add auth system </s>
  - live minimal app
- - stats 
+ - stats
+ - Topic to follow like FlipBoard :D
 
 License
 ----
