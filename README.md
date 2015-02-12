@@ -3,12 +3,11 @@
 # Todo
 
  - Add admin LaTeX editor [Mathajax] ?
- - ranking system,  meh :D
+ - LeaderBoard
  - <s>Add auth system </s>
  - live minimal app
  - stats
  - Topic to follow like FlipBoard :D
- - React Or Angular :anguished:
  
 License
 ----
