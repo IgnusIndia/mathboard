@@ -97,6 +97,10 @@ STATICFILES_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
 )
 
+TEMPLATE_DIRS = (
+    'templates',
+    )
+
 TEMPLATE_CONTEXT_PROCESSORS = (
     
     # Required by allauth template tags
