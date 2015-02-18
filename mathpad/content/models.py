@@ -21,7 +21,7 @@ class Problem(models.Model):
 class Solution(models.Model):
 	answered_by = models.ForeignKey(User)
 	question = models.ForeignKey(Problem)
-	description = models.CharField(max_length=200)
+	description = models.TextField(max_length=500)
 
 	def __unicode__(self):
 		return self.description
