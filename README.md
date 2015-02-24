@@ -5,8 +5,9 @@
  - Add admin LaTeX editor [Mathajax] ?
  - LeaderBoard
  - <s>Add auth system </s>
- - live minimal app
+ - <s>live minimal app<s>
  - stats
+ - Oh yeah REST in peace :D
  - Topic to follow like FlipBoard :D
  
 License
