@@ -6,7 +6,7 @@
  - LeaderBoard
  - <s>Add auth system </s>
  - <s>live minimal app<s>
- - stats
+ - stats [WIP] 
  - <s>Oh yeah REST in peace :D</s>
  - Topic to follow like FlipBoard :D
  
